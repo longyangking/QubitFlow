@@ -1,5 +1,5 @@
 # QubitFlow
-> Quantum circuit for human
+> Quantum circuit for human (Following the similar spirit like [Keras](https://keras.io/))
 
 ## Features
 + High-level API
